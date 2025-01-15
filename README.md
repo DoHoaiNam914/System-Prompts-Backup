@@ -1,1 +1,10 @@
 # System-Prompts-Backup
+- ChatGPT: 2025-01-14
+- [Bing AI (Sydney)](https://x.com/marvinvonhagen/status/1623658144349011971?s=46): 9/2/23
+- [Google Bard](https://x.com/marvinvonhagen/status/1638696721676128256?s=46): 23/3/23
+- Microsoft Copilot: 2025-01-15
+- Google Gemini 1.5 Flash: Ngày 14 tháng 1, 2025
+- Google Gemini 2.0 Flash Experimental: Ngày 14 tháng 1, 2025
+- [Microsoft 365 Copilot](https://labs.zenity.io/p/stealing-copilots-system-prompt): July 05, 2024
+- [GitHub Copilot](https://x.com/marvinvonhagen/status/1657060506371346432?s=46): 12/5/23
+- Dịch | Cốc Cốc Học tập: Ngày 16 tháng 1, 2025
