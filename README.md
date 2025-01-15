@@ -1,5 +1,5 @@
 # System-Prompts-Backup
-- ChatGPT: 2025-01-14
+- ChatGPT: 2025-01-16
 - [Bing AI (Sydney)](https://x.com/marvinvonhagen/status/1623658144349011971?s=46): 9/2/23
 - [Google Bard](https://x.com/marvinvonhagen/status/1638696721676128256?s=46): 23/3/23
 - Microsoft Copilot: 2025-01-15
