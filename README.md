@@ -1,9 +1,9 @@
 # System-Prompts-Backup
 - ChatGPT (Not Logged In): 2025-01-16
-- ChatGPT (Logged In): 2025-01-18
+- ChatGPT (Logged In): 2025-01-19
 - [Bing AI (Sydney)](https://x.com/marvinvonhagen/status/1623658144349011971?s=46): 9/2/23
 - [Google Bard](https://x.com/marvinvonhagen/status/1638696721676128256?s=46): 23/3/23
-- Microsoft Copilot: 2025-01-15
+- Microsoft Copilot: 2025-01-19
 - Google Gemini 1.5 Flash: 2025-01-14
 - Google Gemini 2.0 Flash Experimental: 2025-01-14
 - [Microsoft 365 Copilot](https://labs.zenity.io/p/stealing-copilots-system-prompt): July 05, 2024
