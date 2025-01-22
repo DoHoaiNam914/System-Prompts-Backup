@@ -3,6 +3,9 @@
 - ChatGPT (Logged In): 2025-01-22
 - [Bing AI (Sydney)](https://x.com/marvinvonhagen/status/1623658144349011971?s=46): 9/2/23
 - [Google Bard](https://x.com/marvinvonhagen/status/1638696721676128256?s=46): 23/3/23
+- [Claude 3 Haiku](https://docs.anthropic.com/en/release-notes/system-prompts#july-12th-2024): July 12th, 2024
+- [Claude 3 Opus](https://docs.anthropic.com/en/release-notes/system-prompts#july-12th-2024): July 12th, 2024
+- [Claude 3.5 Sonnet](https://docs.anthropic.com/en/release-notes/system-prompts#july-12th-2024): July 12th, 2024
 - Microsoft Copilot: 2025-01-19
 - Google Gemini 1.5 Flash: 2025-01-14
 - Google Gemini 2.0 Flash Experimental: 2025-01-14
