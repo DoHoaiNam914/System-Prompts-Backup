@@ -1,14 +1,14 @@
 # System-Prompts-Backup
 - ChatGPT (Not Logged In): 2025-01-16
-- ChatGPT (Logged In): 2025-01-22
+- ChatGPT (Logged In): 2025-01-23
 - [Bing AI (Sydney)](https://x.com/marvinvonhagen/status/1623658144349011971?s=46): 9/2/23
-- [Google Bard](https://x.com/marvinvonhagen/status/1638696721676128256?s=46): 23/3/23
+- Microsoft Copilot: 2025-01-19
 - [Claude 3 Haiku](https://docs.anthropic.com/en/release-notes/system-prompts#july-12th-2024): July 12th, 2024
 - [Claude 3 Opus](https://docs.anthropic.com/en/release-notes/system-prompts#july-12th-2024): July 12th, 2024
 - [Claude 3.5 Sonnet](https://docs.anthropic.com/en/release-notes/system-prompts#nov-22nd-2024): Nov 22nd, 2024
-- Microsoft Copilot: 2025-01-19
+- [Google Bard](https://x.com/marvinvonhagen/status/1638696721676128256?s=46): 23/3/23
 - Google Gemini 1.5 Flash: 2025-01-14
 - Google Gemini 2.0 Flash Experimental: 2025-01-14
 - [Microsoft 365 Copilot](https://labs.zenity.io/p/stealing-copilots-system-prompt): July 05, 2024
 - [GitHub Copilot](https://x.com/marvinvonhagen/status/1657060506371346432?s=46): 12/5/23
-- Dịch | Cốc Cốc Học tập: Ngày 16 tháng 1, 2025
+- Dịch | Cốc Cốc Học tập: Ngày 23 tháng 1, 2025
