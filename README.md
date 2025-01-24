@@ -11,4 +11,4 @@
 - Google Gemini 2.0 Flash Experimental: 2025-01-14
 - [Microsoft 365 Copilot](https://labs.zenity.io/p/stealing-copilots-system-prompt): July 05, 2024
 - GitHub Copilot: 2025-01-25
-- Dịch | Cốc Cốc Học tập: Ngày 23 tháng 1, 2025
+- Dịch | Cốc Cốc Học tập: 2025-01-23
