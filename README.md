@@ -1,6 +1,6 @@
 # System-Prompts-Backup
 - ChatGPT (Not Logged In): 2025-01-16
-- ChatGPT (Logged In): 2025-01-25
+- ChatGPT (Logged In): 2025-01-26
 - [Bing AI (Sydney)](https://x.com/marvinvonhagen/status/1623658144349011971?s=46): 9/2/23
 - Microsoft Copilot: 2025-01-19
 - [Claude 3 Haiku](https://docs.anthropic.com/en/release-notes/system-prompts#july-12th-2024): July 12th, 2024
