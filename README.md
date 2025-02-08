@@ -1,5 +1,5 @@
 # System-Prompts-Backup
-- ChatGPT (Not Logged In): 2025-01-16
+- ChatGPT (Not Logged In): 2025-02-09
 - ChatGPT (Logged In): 2025-02-05
 - [Bing AI (Sydney)](https://x.com/marvinvonhagen/status/1623658144349011971?s=46): 9/2/23
 - Microsoft Copilot: 2025-01-19
