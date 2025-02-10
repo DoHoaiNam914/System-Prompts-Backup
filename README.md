@@ -1,6 +1,5 @@
 # System-Prompts-Backup
-- ChatGPT (Not Logged In): 2025-02-09
-- ChatGPT (Logged In): 2025-02-05
+- ChatGPT (Logged In): 2025-02-10
 - [Bing AI (Sydney)](https://x.com/marvinvonhagen/status/1623658144349011971?s=46): 9/2/23
 - Microsoft Copilot: 2025-01-19
 - [Claude 3 Haiku](https://docs.anthropic.com/en/release-notes/system-prompts#july-12th-2024): July 12th, 2024
@@ -9,6 +8,8 @@
 - [Google Bard](https://x.com/marvinvonhagen/status/1638696721676128256?s=46): 23/3/23
 - Google Gemini 1.5 Flash: 2025-01-14
 - Google Gemini 2.0 Flash Experimental: 2025-01-14
+- Google Gemini 2.0 Flash: 2025-02-10
+- Google Gemini 2.0 Flash Thinking Experimental: 2025-02-10
 - [Microsoft 365 Copilot](https://labs.zenity.io/p/stealing-copilots-system-prompt): July 05, 2024
 - [GitHub Copilot](https://x.com/marvinvonhagen/status/1657060506371346432?s=46): 12/5/23
 - GitHub Copilot Immersive: 2025-02-08
